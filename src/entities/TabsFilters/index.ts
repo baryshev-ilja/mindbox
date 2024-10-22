@@ -1,0 +1,1 @@
+export { TabsFilters } from './TabsFilters';
