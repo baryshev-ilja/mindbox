@@ -70,13 +70,6 @@ module.exports = {
                 testFilePatterns: ['**/*.test.*'],
             },
         ],
-        'baryshewww/layers-import': [
-            'error',
-            {
-                alias: '@',
-                ignoreImportPatterns: ['**/storeProvider', '**/testing'],
-            },
-        ],
         'import/order': [
             'error',
             {
